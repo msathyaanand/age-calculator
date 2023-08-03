@@ -5,7 +5,7 @@ A Simple and Efficient Tool to Know Your Age Instantly!
 
 The Age Calculator is a simple web application built using HTML, CSS, and JavaScript that allows users to calculate their age based on the date of birth provided. It provides an intuitive user interface where users can input their birthdates and instantly get their current age in years, months, and days.
 
-## Table of Contents
+## Table of Contents:
 
 - [Demo](#demo)
 - [Features](#features)
